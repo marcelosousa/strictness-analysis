@@ -1,0 +1,1 @@
+let name foo = nfun dead x => 32 + 32 in foo 4 end

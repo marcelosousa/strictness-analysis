@@ -1,0 +1,7 @@
+let name fib = nfun fib x => if   x == 0 
+                        then 0 
+                        else if x == 1 
+                             then 1 
+                             else fib (x - 1) + fib (x - 2) 
+                             endif 
+                        endif in fib 10 end

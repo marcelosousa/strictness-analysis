@@ -1,0 +1,1 @@
+let name plus = fun l => fun r => fun n => n + r in plus 3 4 5 end

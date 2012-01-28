@@ -1,0 +1,1 @@
+let name const = fun x => fun y => x in let name id = fun x => x in const (const (id 42) (id (id (id 5)))) (const 1 2) end end

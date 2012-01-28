@@ -1,0 +1,1 @@
+let name const = fun x => fun y => x in const 1 2 end

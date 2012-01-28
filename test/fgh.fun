@@ -1,0 +1,1 @@
+let name f = fun x => x + 1 in let name g = fun y => y * 2 in let name h = fun z => 3 in h f + h g end end end

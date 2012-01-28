@@ -1,0 +1,1 @@
+let name iff = fun g => fun t1 => fun t2 => let name const = fun x => fun y => x in if g then const t1 t2 else const t2 t1 endif end in iff True 4 1 end
